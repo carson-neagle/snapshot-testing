@@ -10,9 +10,9 @@ function GitHubCard() {
         <Card.Img variant="top" src={MickeyMouse} />
         {/* Source: https://en.wikipedia.org/wiki/Mickey_Mouse */}
         <Card.Body>
-            <Card.Title>Mickey Mouse</Card.Title>
+            <Card.Title>Carson Neagle</Card.Title>
             <Card.Text>
-            I am a cartoon character and am one of the world's most recognizable fictional characters.
+            I am a computer programming student in the NC State Programming Bootcamp.
             </Card.Text>
         </Card.Body>
         </Card>
